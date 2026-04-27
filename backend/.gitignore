@@ -1,4 +1,5 @@
 .idea/*
 
-backend/.DS_Store
-backend/HELP.md
+./backend/.DS_Store
+./backend/HELP.md
+.DS_Store
